@@ -1,5 +1,5 @@
 # Blogtthu
-A simple blog system for start simple
+A simple nodejs blog system for start simple
 
 ## Installation
 
